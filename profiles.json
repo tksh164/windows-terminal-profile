@@ -61,15 +61,15 @@
             "acrylicOpacity": 0.5
         },
         {
-            "name": "Developer Command Prompt for VS 2019",
+            "name": "Developer PowerShell for VS 2019",
             "guid": "{20b0b791-9990-45f9-a6bd-002362c27aac}",
-            "commandline": "%comspec% /k \"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Enterprise\\Common7\\Tools\\VsDevCmd.bat\"",
+            "commandline": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe -noe -c \"&{Import-Module \"\"\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Enterprise\\Common7\\Tools\\Microsoft.VisualStudio.DevShell.dll\"\"\"; Enter-VsDevShell 1e896182; cd J:\\}\"",
             "startingDirectory": "J:\\",
             "closeOnExit": false,
             "snapOnInput": true,
             "historySize": 9001,
             "padding": "0, 0, 0, 0",
-            "tabTitle": "VS2019 Dev Cmd",
+            "tabTitle": "VS2019 Dev PShell",
             "icon": "ms-appdata:///roaming/vs2019.png",
             "fontFace": "Cascadia Code",
             "fontSize": 10,
