@@ -101,6 +101,25 @@
             "cursorShape": "bar",
             "useAcrylic": true,
             "acrylicOpacity": 0.85
+        },
+        {
+            "name": "Git Bash",
+            "guid": "{bbca0537-cc13-40b5-8d7f-384baf3e8cc2}",
+            "commandline": "C:\\Program Files\\Git\\bin\\bash.exe -i -l",
+            "startingDirectory": "C:\\",
+            "closeOnExit": true,
+            "snapOnInput": true,
+            "historySize": 9001,
+            "padding": "0, 0, 0, 0",
+            "tabTitle": "Git Bash",
+            "icon": "C:\\Program Files\\Git\\mingw64\\share\\git\\git-for-windows.ico",
+            "fontFace": "Cascadia Code",
+            "fontSize": 10,
+            "colorScheme": "Campbell",
+            "cursorColor": "#FFFFFF",
+            "cursorShape": "bar",
+            "useAcrylic": false,
+            "acrylicOpacity": 0.75
         }
     ],
     "globals": {
