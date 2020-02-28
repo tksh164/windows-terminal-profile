@@ -71,7 +71,7 @@
             "snapOnInput": true,
             "historySize": 9001,
             "padding": "0, 0, 0, 0",
-            "tabTitle": "PowerShell Core",
+            "tabTitle": "SSH",
             "icon": "ms-appx:///ProfileIcons/{574e775e-4f2a-5b96-ac1e-a2962a402336}.png",
             "fontFace": "Cascadia Code",
             "fontSize": 10,
