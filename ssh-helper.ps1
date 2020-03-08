@@ -46,3 +46,4 @@ $cmdline = $cmdlineParts -join ' '
 
 Write-Verbose -Message $cmdline
 Invoke-Expression -Command $cmdline
+Read-Host -Prompt 'Press enter to exit'
