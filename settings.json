@@ -62,7 +62,8 @@
             "cursorShape": "bar",
             "cursorColor": "#FFFFFF",
             "fontSize": 10,
-            "fontFace": "Cascadia Code"
+            "fontFace": "Cascadia Code",
+            "antialiasingMode": "grayscale"
         },
         "list":
         [
