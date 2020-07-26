@@ -166,6 +166,27 @@
     // To learn more about color schemes, visit https://aka.ms/terminal-color-schemes
     "schemes": [
         {
+            "name": "srcery",
+            "foreground": "#D0BFA1",
+            "background": "#1C1B19",
+            "black": "#1C1B19",
+            "brightBlack": "#918175",
+            "white": "#D0BFA1",
+            "brightWhite": "#FCE8C3",
+            "red": "#EF2F27",
+            "brightRed": "#F75341",
+            "green": "#519F50",
+            "brightGreen": "#98BC37",
+            "blue": "#2C78BF",
+            "brightBlue": "#68A8E4",
+            "cyan": "#0AAEB3",
+            "brightCyan": "#53FDE9",
+            "purple": "#E02C6D",
+            "brightPurple": "#FF5C8F",
+            "yellow": "#FBB829",
+            "brightYellow": "#FED06E"
+        },
+        {
             "name": "Ubuntu",
             "foreground": "#FFFFFF",
             "background": "#300A24",
