@@ -1,4 +1,4 @@
-# windows-terminal-settings
+# Windows Terminal Settings
 
 ## Notes
 
