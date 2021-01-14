@@ -207,6 +207,27 @@
         //     "brightYellow": "#F9F1A5"
         // },
         {
+            "name": "simple",
+            "foreground": "#DDDDDD",
+            "background": "#1C1C1C",
+            "black": "#333333",
+            "brightBlack": "#565656",
+            "white": "#D4D7CF",
+            "brightWhite": "#EEEEEE",
+            "red": "#AC0401",
+            "brightRed": "#CA2B29",
+            "green": "#6D9A1C",
+            "brightGreen": "#ABE143",
+            "blue": "#4A65A3",
+            "brightBlue": "#839FCE",
+            "cyan": "#5A989A",
+            "brightCyan": "#8DE2E2",
+            "purple": "#6B507A",
+            "brightPurple": "#A07FA7",
+            "yellow": "#B9A01B",
+            "brightYellow": "#F5E959"
+        },
+        {
             // https://srcery-colors.github.io/
             "name": "srcery",
             "cursorColor": "#FFFFFF",
