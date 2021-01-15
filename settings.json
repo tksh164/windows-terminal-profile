@@ -208,10 +208,10 @@
         // },
         {
             "name": "simple",
-            "foreground": "#DDDDDD",
+            "foreground": "#DFDFDF",
             "background": "#1C1C1C",
             "black": "#333333",
-            "brightBlack": "#565656",
+            "brightBlack": "#B3B3B3",
             "white": "#D4D7CF",
             "brightWhite": "#EEEEEE",
             "red": "#AC0401",
@@ -225,7 +225,7 @@
             "purple": "#6B507A",
             "brightPurple": "#A07FA7",
             "yellow": "#B9A01B",
-            "brightYellow": "#F5E959"
+            "brightYellow": "#F6E959"
         },
         {
             // https://srcery-colors.github.io/
